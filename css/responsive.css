@@ -2,6 +2,12 @@
   .wrapper {
     width: 90%;
   }
+  #social {
+    position: absolute;
+    width: auto;
+    padding-top: 82px;
+    padding-right: 4px;
+  }
 }
 
 @media only screen and (min-width: 900px) {
