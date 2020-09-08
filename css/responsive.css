@@ -2,6 +2,7 @@
   .wrapper {
     width: 90%;
   }
+
   #social {
     position: absolute;
     width: auto;
@@ -13,5 +14,10 @@
 @media only screen and (min-width: 900px) {
     body {
       font-size: 85%;
+    }
+
+    #logo h1 {
+      height: 35px;
+      width: 35px;
     }
 }
